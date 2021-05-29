@@ -19,6 +19,7 @@
 
 ・ [`irooqlf`](https://github.com/irooqlf): Jeunes développeurs de 13 ans c'est celui qui s'occupe de la communication du projet, il aide beaucoup apoo pour le blog. 
 
+・ [`Wezah`](https://github.com/Wezah): Manageur du projet. 
 
 # Lien utiles
 
