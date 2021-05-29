@@ -22,7 +22,7 @@
 
 # Lien utiles
 
-・ [`Discord`](https://discord.gg/Pb8UhmUXJq)
+・ [`Discord`](https://discord.gg/tyBmw2vp)
 
 ・ [`Faire un don`](https://paypal.me/irootls)
 
