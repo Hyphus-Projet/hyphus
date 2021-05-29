@@ -19,7 +19,7 @@
 
 ・ Iroo: Jeunes développeurs de 13 ans c'est celui qui s'occupe de la communication du projet, il aide beaucoup apoo pour le blog. [`Github`](https://github.com/irooqlf)
 
----
+
 
 # Lien utiles
 
