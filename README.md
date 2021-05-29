@@ -13,7 +13,7 @@
 
 ・ Rejoins la communautés de Hyphus !
 
-### Les Créateurs 
+# Les Créateurs 
 
 ・ Apoo: Développer de 13 ans très passionner c'est lui qui s'occupe du blog.  [`Github`](https://github.com/apoow3b)
 
@@ -21,9 +21,9 @@
 
 ---
 
-## Lien utiles
+# Lien utiles
 
-・ [Discord](https://discord.gg/Pb8UhmUXJq)
+・ [`Discord`](https://discord.gg/Pb8UhmUXJq)
 
-・ [Faire un don](https://paypal.me/irootls)
+・ [`Faire un don`](https://paypal.me/irootls)
 
