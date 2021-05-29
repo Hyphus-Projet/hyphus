@@ -4,9 +4,13 @@
 
 # Offres de Hyphus:
 ・ Communautés fr et en
+
 ・ beaucoup de développeurs de tout les niveaux pour vous aider
+
 ・ Un système de niveaux par apport à vos messages envoyés sur le blog
+
 ・ Besoin que d'un bot au mieux de plusieurs
+
 ・ Rejoins la communautés de Hyphus !
 
 ### Les Créateurs 
